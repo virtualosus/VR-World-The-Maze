@@ -68,12 +68,9 @@ Asset Credit:		Dungeon Stone Textures by 3D.Rina
 
 References:		Beginners Blender Video no. 9: 3D Text - bpwebmedia 
               https://www.youtube.com/watch?v=SYLB8ejaNC4&ab_channel=bpwebmedia
-
-			        Lighting Manual - Unity
+			Lighting Manual - Unity
               https://docs.unity3d.com/Manual/Lighting.html
-
-              UV Editor Guide - Blender
+	              UV Editor Guide - Blender
               https://docs.blender.org/manual/en/latest/editors/uv/index.html
-
-              XR Rig Manual - Unity
+	              XR Rig Manual - Unity
               https://docs.unity3d.com/Manual/XR.html
