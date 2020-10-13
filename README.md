@@ -1,8 +1,12 @@
 # VR-World-The-Maze
 Git Hub of Assignment 1
+
 Sebastian Vowles
+
 2030428
+
 08.10.2020
+
 
 Assignment 1: Virtual Worlds of EG-M126 of the VR MSc for Swansea University
 
