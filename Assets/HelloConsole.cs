@@ -7,7 +7,8 @@ public class HelloConsole : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello Console");  
+        // write to console
+        Debug.Log("2031528");  
     }
 
 
