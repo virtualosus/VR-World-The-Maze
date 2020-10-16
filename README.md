@@ -1,6 +1,8 @@
 # VR-World-The-Maze
 Git Hub of Assignment 1
 
+Relaease available from: https://github.com/2030428/VR-World-The-Maze/releases/tag/V1
+
 Sebastian Vowles
 
 2030428
